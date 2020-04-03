@@ -17,3 +17,4 @@ Content.propTypes = {
 HTMLContent.propTypes = Content.propTypes
 
 export default Content
+
