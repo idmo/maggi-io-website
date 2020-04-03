@@ -66,7 +66,6 @@ const NavMenu = () => {
             <Link to="/">Home</Link>{" "}
             <Link to="/blog">Blog</Link>{" "}
             <Link to="/blurts">Blurts</Link>{" "}
-            <Link to="/about">About</Link>{" "}
         </nav>
     )
 }
