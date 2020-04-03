@@ -11,7 +11,6 @@ const Footer = class extends React.Component {
     return (
       <footer>
         <div>Copyright © 2020 Brian Maggi</div>
-        <Social />
       </footer>
     )
   }

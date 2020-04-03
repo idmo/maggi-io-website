@@ -8,7 +8,8 @@ import Paper from "@material-ui/core/Paper";
 
 const useStyles = makeStyles((theme) => ({
   footer: {
-    padding: theme.spacing(4),
+    paddingTop: theme.spacing(4),
+    textAlign: `center`,
   },
 }));
 
