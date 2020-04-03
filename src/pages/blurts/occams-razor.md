@@ -1,5 +1,6 @@
 ---
 templateKey: blurt
+title: Occam’s Razor
 date: '2020-04-02 21:23:53'
 ---
 
