@@ -11,6 +11,7 @@ featuredimage: ''
 tags:
   - brewing
   - chemex
+  - design
 ---
 ![chemex](/img/chemex.jpg)
 
